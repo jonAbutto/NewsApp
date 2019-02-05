@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--dimens for all dimensions in dp-->
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_5dp">5dp</dimen>
+
+    <!--textview dimens-->
+    <dimen name="sp_20sp">20sp</dimen>
+</resources>
